@@ -1,0 +1,16 @@
+Lines of code metrics,пн, 7 дек. 2020 18:16:42 MSK
+Package,LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec)
+"",n/a,98,n/a,98,n/a,0
+"sample",98,98,98,98,0,0
+
+Module,L(Groovy),L(HTML),L(J),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+"Loging",0,9,82,0,0,120,98,0,91,91,0
+
+FileType,LOC,NCLOC
+"HTML",9,9
+"Java",82,82
+"Text",29,n/a
+
+Project,L(Groovy),L(HTML),L(J),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+"project",0,9,82,0,0,120,98,0,91,91,0
+
